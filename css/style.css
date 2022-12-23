@@ -597,7 +597,7 @@ color: #1F2428;
   align-items: center;
   width: 100%;
   margin: 0 0px;
-  /* padding-left: 50px; */
+  padding-left: 100px;
 }
 
 .ya{
@@ -691,7 +691,7 @@ color: #1F2428;
   align-items: center;
   background: linear-gradient(79.63deg, #5B52A3 1.08%, #40B8EA 100%);
   border-radius: 36px;
-  width: 100%;
+  width: 97%;
   /* margin-left: 35px; */
   margin-top: 50px;
 }
