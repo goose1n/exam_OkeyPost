@@ -595,9 +595,9 @@ color: #1F2428;
   gap: 10px;
   justify-content: center;
   align-items: center;
-  width: 100%;
+  width: 97%;
   margin: 0 0px;
-  padding-left: 100px;
+  /* padding-left: 100px; */
 }
 
 .ya{
